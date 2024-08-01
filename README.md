@@ -1,4 +1,4 @@
-Uso este espacio para compartir mis proyectos personales, los cuales pueden ser consultados haciendo clic en "Repositories" (sobre este texto).
+Uso este espacio para compartir mis proyectos personales, los cuales pueden ser consultados haciendo clic en "Repositories" (en la parte superior de esta página).
 
 <!--
 **jorge-botana/jorge-botana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
